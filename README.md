@@ -6,7 +6,7 @@ LAB 1 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main
 LAB 2 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main/LAB2_homework.ipynb
 
 
-LAB 2 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main/LAB3_Homework.ipynb
+LAB 3 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main/LAB3_Homework.ipynb
 
 
 LAB 4 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main/LAB4_Homework.ipynb

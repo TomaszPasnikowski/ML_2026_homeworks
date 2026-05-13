@@ -25,3 +25,6 @@ LAB 8 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main
 
 
 LAB 9 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main/LAB9_Homework.ipynb
+
+
+LAB 10 Homework: https://github.com/TomaszPasnikowski/ML_2026_homeworks/blob/main/LAB10_Homework.ipynb
